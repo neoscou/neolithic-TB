@@ -1,0 +1,26 @@
+{
+    "name": "ping-remover-legacy",
+    "options": {
+        "guiName": "Ping-Remover (patch 92/100)"
+    },
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json",
+        "ping": "https://git.teragame.su/tera/ping/raw/master/module.json"
+    },
+    "servers": [
+        "https://git.teragame.su/tera/ping-remover-legacy/raw/master/",
+        "https://gitlab.com/tera-private-mods/ping-remover-legacy/-/raw/master/"
+    ],
+    "conflicts": [
+        "ping-remover-agaia",
+        "ping-remover",
+        "skill-prediction",
+        "ngsp",
+        "ngsp_100",
+        "ngsp_92"
+    ],
+    "disableAutoUpdate": false,
+    "description": "",
+    "version": "",
+    "drmKey": "LEGACY"
+}

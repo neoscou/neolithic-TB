@@ -1,0 +1,8 @@
+{
+  "servers": ["https://www.tera.azur-cosplay.com/ftp/ping/"],
+  "disableAutoUpdate": false,
+  "name": "ping",
+  "dependencies": {
+    "library": "https://raw.githubusercontent.com/tera-toolbox-mods/library/master/module.json"
+  }
+}

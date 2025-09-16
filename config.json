@@ -1,0 +1,19 @@
+{
+    "branch": "master",
+    "uilanguage": "en",
+    "updatelog": false,
+    "devmode": false,
+    "noselfupdate": true,
+    "noupdate": false,
+    "noslstags": false,
+    "removecounters": false,
+    "gui": {
+        "theme": "black",
+        "autostart": false,
+        "logtimes": true,
+        "cleanstart": false,
+        "maximized": false,
+        "width": 1208,
+        "height": 821
+    }
+}
